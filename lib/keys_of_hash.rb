@@ -8,6 +8,7 @@ class Hash
         if arg == v 
           arr << k
         end 
-      end 
+      end
+      arr 
   end
 end
